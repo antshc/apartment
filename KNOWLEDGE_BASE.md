@@ -191,6 +191,16 @@
 
 **Першоджерела проєкту:** [головна папка Drive](https://drive.google.com/drive/folders/1bDKjrza9bfQScGTqoYFZAbPC6tP1XdZl), [папка договорів агенції](https://drive.google.com/drive/folders/1HCA_2HppVN1nrhwsYnnEH0So88R9nKi3), [платежі](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit), [учасники](https://docs.google.com/document/d/1B5OqpzE1paTHVIFeJNbxh9qtk5qksGXFLVR2azY948s/edit).
 
+### Офіційні джерела
+
+- [Міністерство юстиції України](https://minjust.gov.ua/) — нотаріат і реєстрація прав.
+- [Державна податкова служба](https://tax.gov.ua/) — оподаткування продажу нерухомості, ПДФО та військовий збір.
+- [Пенсійний фонд України](https://www.pfu.gov.ua/) — пенсійний збір і пільги при купівлі житла.
+- [НБУ](https://bank.gov.ua/) — правила розрахунків і банківські обмеження.
+- [Законодавство України](https://zakon.rada.gov.ua/) — чинні нормативні тексти.
+- [ЄДР судових рішень](https://reyestr.court.gov.ua/) — судові спори.
+- [ЄДЕССБ](https://e-construction.gov.ua/) — відомості про будівництво.
+
 **Нормативна база і держоргани:**
 
 - [Цивільний кодекс України](https://zakon.rada.gov.ua/laws/show/435-15#Text) — зокрема ст. 546, 570–571, 635, 657; законність і дійсність конкретного договору оцінює адвокат.
