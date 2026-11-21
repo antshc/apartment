@@ -251,6 +251,12 @@ swimlane-beta LR
 
 ---
 
+## Робочі джерела та інструкції між чатами
+
+- **[Інструкції для ChatGPT-проєкту «Квартира»](PROJECT_INSTRUCTIONS.md)** — правила, де шукати джерела й куди вносити зміни між сесіями.
+- **[Приватний реєстр учасників, ПІБ і ролей (Google Docs)](https://docs.google.com/document/d/1B5OqpzE1paTHVIFeJNbxh9qtk5qksGXFLVR2azY948s/edit)** — підтверджені за текстом документів імена, порожні поля для необхідних учасників, джерела та статуси перевірки. Особисті дані не дублюються тут.
+- **[Папка документів у Google Drive](https://drive.google.com/drive/folders/1bDKjrza9bfQScGTqoYFZAbPC6tP1XdZl)**, у тому числі [договори й акт агенції](https://drive.google.com/drive/folders/1HCA_2HppVN1nrhwsYnnEH0So88R9nKi3).
+
 ## Фінансовий облік і матеріали угоди
 
 **Єдине місце для сум, авансу, комісій, нотаріальних і банківських платежів:** [Google Sheets — «Квартира Кримидівка: витрати та платежі»](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit?usp=drivesdk).
