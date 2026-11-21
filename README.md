@@ -72,24 +72,6 @@ swimlane-beta LR
 
 **Важливо:** ці строки повідомлені покупцем як **план**, а не перевірені умови підписаного договору. Оскільки підписання й фактична передача рознесені в часі, потрібно **письмово закріпити у договорі** строк звільнення й передачі ключів, умови користування квартирою до передачі, оплату комунальних послуг, збереження стану майна та наслідки прострочення. [Погодження умов — Issue #7](https://github.com/antshc/apartment/issues/7).
 
-## Перелік витрат і платежів — Google Sheets
-
-**Єдине джерело сум, дат і статусів:** [вкладка «Витрати»](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit#gid=2000000001) · [автоматичний «Підсумок»](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit#gid=1254360732). Нижче — **навігація за рядками**, а не копія кошторису: змінювати суми, фактичні оплати та статуси слід тільки в Google Sheets. Пояснення видів платежів, БТІ, оцінки й довідок — у [базі знань](KNOWLEDGE_BASE.md#4-платежі-збори-податки-та-послуги).
-
-| Група | Витрата → рядок у Google Sheets | Що уточнити |
-|---|---|---|
-| Квартира | [Аванс за квартиру](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit#gid=2000000001&range=A6:N6) | Зарахувати в загальну ціну; перевірити доказ оплати |
-| Квартира | [Залишок ціни квартири](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit#gid=2000000001&range=A7:N7) | Узгодити дату, суму в гривні та спосіб розрахунку |
-| Послуги | [Комісія агентства](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit#gid=2000000001&range=A8:N8) | Уточнити строк та підставу оплати |
-| Збори | [Пенсійний збір (банківський платіж; 1% — перевірити розрахунок)](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit#gid=2000000001&range=A9:N9) | Письмово підтвердити базу, суму та можливі пільги |
-| Нотаріус | [Держмито (1% — перевірити розрахунок)](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit#gid=2000000001&range=A10:N10) | **Назву й правову підставу не перевірено**; з'ясувати, чи це плата приватному нотаріусу |
-| Нотаріус | [Комісія нотаріуса](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit#gid=2000000001&range=A11:N11) | Отримати деталізацію та підтвердити, що не дублює інші платежі |
-| Реєстрація | [Державна реєстрація права власності](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit#gid=2000000001&range=A12:N12) | Перевірити пільги та включення в рахунок нотаріуса |
-| Довідки | [Відомості з ДРРП (опційно)](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit#gid=2000000001&range=A13:N13) | Не замовляти повторно, якщо нотаріус уже отримує дані |
-| Оцінка | [Платна експертна оцінка нерухомості (опційно)](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit#gid=2000000001&range=A14:N14) | Лише якщо не підходить безкоштовна е-довідка ФДМУ |
-
-**Не створювати подвійних витрат:** перед оплатою звірити в нотаріуса, чи реєстраційні збори, довідки або платна оцінка вже включені до його кошторису. Для відсоткових позицій позначка «перевірити розрахунок» **не змінює чинні суми**. Контроль підтверджень — [Issue #8](https://github.com/antshc/apartment/issues/8).
-
 ## Етапи: завдання в GitHub Issues
 
 **У README немає чекбоксів.** Кожен Issue — єдине місце для внутрішніх кроків, документів, процедури, прогресу й статусу перевірки; **Issue #1** — огляд етапів. Закривайте Issue лише після підтвердження критерію завершення документами.
@@ -145,6 +127,24 @@ swimlane-beta LR
 | **Витяг із ДРРП на покупця після угоди** | — | **Майбутній документ** — отримати після посвідчення й реєстрації. |
 
 **Контроль перевірок:** [Issue #3 — пакет продавця](https://github.com/antshc/apartment/issues/3) · [Issue #4 — юридичний аналіз](https://github.com/antshc/apartment/issues/4) · [Issue #5 — технічний огляд](https://github.com/antshc/apartment/issues/5) · [Issue #6 — нотаріус](https://github.com/antshc/apartment/issues/6). Оригінали, особисті документи, підписи й реквізити — тільки в захищеному Drive, не в GitHub.
+
+## Перелік витрат і платежів — Google Sheets
+
+**Єдине джерело сум, дат і статусів:** [вкладка «Витрати»](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit#gid=2000000001) · [автоматичний «Підсумок»](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit#gid=1254360732). Нижче — **навігація за рядками**, а не копія кошторису: змінювати суми, фактичні оплати та статуси слід тільки в Google Sheets. Пояснення видів платежів, БТІ, оцінки й довідок — у [базі знань](KNOWLEDGE_BASE.md#4-платежі-збори-податки-та-послуги).
+
+| Група | Витрата → рядок у Google Sheets | Що уточнити |
+|---|---|---|
+| Квартира | [Аванс за квартиру](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit#gid=2000000001&range=A6:N6) | Зарахувати в загальну ціну; перевірити доказ оплати |
+| Квартира | [Залишок ціни квартири](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit#gid=2000000001&range=A7:N7) | Узгодити дату, суму в гривні та спосіб розрахунку |
+| Послуги | [Комісія агентства](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit#gid=2000000001&range=A8:N8) | Уточнити строк та підставу оплати |
+| Збори | [Пенсійний збір (банківський платіж; 1% — перевірити розрахунок)](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit#gid=2000000001&range=A9:N9) | Письмово підтвердити базу, суму та можливі пільги |
+| Нотаріус | [Держмито (1% — перевірити розрахунок)](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit#gid=2000000001&range=A10:N10) | **Назву й правову підставу не перевірено**; з'ясувати, чи це плата приватному нотаріусу |
+| Нотаріус | [Комісія нотаріуса](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit#gid=2000000001&range=A11:N11) | Отримати деталізацію та підтвердити, що не дублює інші платежі |
+| Реєстрація | [Державна реєстрація права власності](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit#gid=2000000001&range=A12:N12) | Перевірити пільги та включення в рахунок нотаріуса |
+| Довідки | [Відомості з ДРРП (опційно)](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit#gid=2000000001&range=A13:N13) | Не замовляти повторно, якщо нотаріус уже отримує дані |
+| Оцінка | [Платна експертна оцінка нерухомості (опційно)](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit#gid=2000000001&range=A14:N14) | Лише якщо не підходить безкоштовна е-довідка ФДМУ |
+
+**Не створювати подвійних витрат:** перед оплатою звірити в нотаріуса, чи реєстраційні збори, довідки або платна оцінка вже включені до його кошторису. Для відсоткових позицій позначка «перевірити розрахунок» **не змінює чинні суми**. Контроль підтверджень — [Issue #8](https://github.com/antshc/apartment/issues/8).
 
 ## Стоп-умови
 
