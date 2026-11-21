@@ -104,8 +104,6 @@ swimlane-beta LR
 | **Договір про наміри (2 сторінки)** | [стор. 01](https://drive.google.com/file/d/1aFt2zXUKzJSLORkRpIjOjYckCPMiQqWV/view) · [стор. 02](https://drive.google.com/file/d/1rdw6l_32jV1BG3Iit3XD0yUD67vWo6cK/view) | **Фото є; юридичні наслідки не перевірено** — передати адвокату, особливо умови платежу та повернення. |
 | **Договір послуг агенції (3 сторінки)** | [стор. 01](https://drive.google.com/file/d/1gdKJDBlcRTqtyU4swzveFWKxrGUk3_Zs/view) · [стор. 02](https://drive.google.com/file/d/1XYM6LSn53GCmP2NMqVvF3qkRrAShk_z4/view) · [стор. 03](https://drive.google.com/file/d/1Ig1agknMpJcOzSnz-0VqiU3tq1osajYu/view) | **Фото є; юридичні наслідки не перевірено** — перевірити умови виникнення обов'язку оплати. |
 | **Акт наданих агентських послуг** | [фото акта (разом зі стор. 03 договору)](https://drive.google.com/file/d/1Ig1agknMpJcOzSnz-0VqiU3tq1osajYu/view) | **Фото є** — адвокату перевірити юридичні наслідки його підписання. |
-| **Рукописний розрахунок витрат від агенції** | [фото розрахунку](https://drive.google.com/file/d/1Nvng1t_Xvili_LTxQh9FjUsw08LDcYix/view) | **Фото є** — уточнити підставу та платника кожного платежу; фактичні суми вести лише у Sheets. |
-| **Візитівка агенції** | [фото візитівки](https://drive.google.com/file/d/1f0UQlGS1yu9z3ygxOKK96Mt0b2OXEz5l/view) | **Фото є; статус посередника не перевірено** — підтвердження реєструвати у приватному Google Docs. |
 | **Правовстановлюючий документ продавця** | — | **Не перевірено** — Запросити оригінал та копію для адвоката й нотаріуса. |
 | **Свіжий витяг / інформація з ДРРП та історія переходів прав** | — | **Не перевірено** — Замовити актуальну перевірку на дату угоди. |
 | **Архівна довідка БТІ (за потреби)** | — | **Не перевірено** — З'ясувати необхідність за історією квартири. |
@@ -134,8 +132,7 @@ swimlane-beta LR
 
 | Група | Витрата → рядок у Google Sheets | Що уточнити |
 |---|---|---|
-| Квартира | [Аванс за квартиру](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit#gid=2000000001&range=A6:N6) | Зарахувати в загальну ціну; перевірити доказ оплати |
-| Квартира | [Залишок ціни квартири](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit#gid=2000000001&range=A7:N7) | Узгодити дату, суму в гривні та спосіб розрахунку |
+| Квартира | [Аванс за квартиру](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit#gid=2000000001&range=A6:N6) · [Залишок ціни квартири](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit#gid=2000000001&range=A7:N7) | Аванс зарахувати в загальну ціну та перевірити доказ оплати; для остаточного платежу узгодити дату, суму в гривні й спосіб розрахунку |
 | Послуги | [Комісія агентства](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit#gid=2000000001&range=A8:N8) | Уточнити строк та підставу оплати |
 | Збори | [Пенсійний збір (банківський платіж; 1% — перевірити розрахунок)](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit#gid=2000000001&range=A9:N9) | Письмово підтвердити базу, суму та можливі пільги |
 | Нотаріус | [Держмито (1% — перевірити розрахунок)](https://docs.google.com/spreadsheets/d/1fHAeHknMuCatSHrIzm2nMaQZv3ayvEAC6nz1hK3AV-g/edit#gid=2000000001&range=A10:N10) | **Назву й правову підставу не перевірено**; з'ясувати, чи це плата приватному нотаріусу |
